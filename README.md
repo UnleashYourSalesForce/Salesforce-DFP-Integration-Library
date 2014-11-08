@@ -1,5 +1,10 @@
 ^title Salesforce Doubleclick For Publishers Integration Library
 
+<a href="https://githubsfdeploy.herokuapp.com?owner=unleashYourSalesforce&repo=Salesforce-DFP-Integration-Library">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
+
 A Salesforce/Force.com library to integrate Salesforce with Double Click for Publishers using DFP SOAP APIs. Need help? Just ping us.
 
 
